@@ -15,7 +15,6 @@ FeelSenseAI is an AI-powered sentiment classification system designed to analyze
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
